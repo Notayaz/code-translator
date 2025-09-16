@@ -55,7 +55,7 @@ const Home = () => {
             </Link>
             {/* External Home link placeholder - update href when ready */}
             <a
-              href="https://example.com" 
+              href="https://team0001.vercel.app" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex"
